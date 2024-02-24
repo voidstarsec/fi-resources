@@ -1,0 +1,6 @@
+set architecture arm
+target extended-remote :3333
+source etm.py
+enableDBG
+configureTPIU
+enableETM
