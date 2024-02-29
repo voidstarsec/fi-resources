@@ -4,6 +4,8 @@
 
 Research and resources that [VoidStar Security LLC](https://voidstarsec.com) has performed regarding fault injection techniques and demonstrations. 
 
+Slides for the STM32F4 Talk can be found [here](https://voidstarsec.com/fi-resources)
+
 ## Contents
 
 - `stm32f4`: Resources and examples for fault injection attacks on the STM32F4, topics and examples include:
@@ -19,4 +21,9 @@ Research and resources that [VoidStar Security LLC](https://voidstarsec.com) has
 ## Resources 
 - [NewAE Store](https://store.newae.com/)
 - [Trezor Fault Injection Slides](https://wrongbaud.github.io/replicant-slides)
+- [VoidStar Security Blog](https://voidstarsec.com/blog)
+
+## Training
+
+Want to learn more about hardware hacking or firmware reverse engineering? Check out the VoidStar Security training materials [here](http://voidstarsec.com/#training)
 
